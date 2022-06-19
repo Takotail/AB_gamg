@@ -1,3 +1,5 @@
+#git push test
+
 import random
 
 start = input('輸入起始值')
